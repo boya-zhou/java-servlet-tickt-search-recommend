@@ -6,7 +6,71 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2be03a7-d85f-4728-b52e-43effcfec067" name="Default" comment="" />
+    <list default="true" id="c2be03a7-d85f-4728-b52e-43effcfec067" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Jupiter_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jupiter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/db/DBConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/db/DBConnectionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/db/mysql/MySQLConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/db/mysql/MySQLDBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/db/mysql/MySQLTableCreation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/entity/Item$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/entity/Item$ItemBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/entity/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/external/GeoHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/external/TicketMasterAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/rpc/ItemHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/rpc/RecommendItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/rpc/RpcHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/classes/rpc/SearchItems.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/lib/json-20080701.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/lib/protobuf-java-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/scripts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/scripts/main0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/scripts/mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Jupiter_war_exploded/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/db/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/db/DBConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/db/mysql/MySQLConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/db/mysql/MySQLDBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/db/mysql/MySQLTableCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/external/GeoHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/external/TicketMasterAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rpc/ItemHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rpc/RecommendItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rpc/RpcHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rpc/SearchItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db/DBConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db/DBConnectionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db/mysql/MySQLConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db/mysql/MySQLDBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db/mysql/MySQLTableCreation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/Item$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/Item$ItemBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/external/GeoHash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/external/TicketMasterAPI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/rpc/ItemHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/rpc/RecommendItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/rpc/RpcHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/rpc/SearchItems.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -455,12 +519,12 @@
       <workItem from="1536096864150" duration="11188000" />
       <workItem from="1536537934605" duration="3175000" />
       <workItem from="1536877560042" duration="25097000" />
-      <workItem from="1537405241304" duration="561000" />
+      <workItem from="1537405241304" duration="885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40021000" />
+    <option name="totallyTimeSpent" value="40345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
